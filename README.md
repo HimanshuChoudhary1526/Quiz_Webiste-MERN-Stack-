@@ -1,6 +1,6 @@
- Quiz_Webiste-MERN-Stack-
-edit .env File 
-MONGO_URL = <URL-Link> 
+ Quiz_Webiste-MERN-Stack----->
+----> edit .env File 
+----->MONGO_URL = <URL-Link> 
 
 Go to terminal --->
 [For Clinet side ]--->
