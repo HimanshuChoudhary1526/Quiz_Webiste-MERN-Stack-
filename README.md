@@ -2,15 +2,15 @@
 edit .env File 
 MONGO_URL = <URL-Link> 
 
-Go to terminal 
-[For Clinet side ]
- cd client
- npm install
+Go to terminal --->
+[For Clinet side ]--->
+ cd client---->
+ npm install---->
 npm start
 
-[For Server Side]
-In project Directory 
-npm install 
+[For Server Side]---->
+In project Directory---->
+npm install---->
 npm start
 
 Login page 
