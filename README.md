@@ -1,4 +1,4 @@
-Step1. Quiz_Webiste-MERN-Stack----->
+STEP1. Quiz_Webiste-MERN-Stack----->
 ----> edit .env File 
 ----->MONGO_URL = <URL-Link> 
 
@@ -8,7 +8,7 @@ STEP2. Go to terminal --->
  npm install---->
 npm start
 
-SYEP3. [For Server Side]---->
+STEP3. [For Server Side]---->
 In project Directory---->
 npm install---->
 npm start
