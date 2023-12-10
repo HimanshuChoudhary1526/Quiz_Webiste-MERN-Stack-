@@ -1,14 +1,14 @@
- Quiz_Webiste-MERN-Stack----->
+Step1. Quiz_Webiste-MERN-Stack----->
 ----> edit .env File 
 ----->MONGO_URL = <URL-Link> 
 
-Go to terminal --->
+STEP2. Go to terminal --->
 [For Clinet side ]--->
  cd client---->
  npm install---->
 npm start
 
-[For Server Side]---->
+SYEP3. [For Server Side]---->
 In project Directory---->
 npm install---->
 npm start
