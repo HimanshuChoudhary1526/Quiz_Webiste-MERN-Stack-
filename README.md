@@ -1,3 +1,7 @@
+git clone "https://github.com/HimanshuChoudhary1526/Quiz_Webiste-MERN-Stack-.git" 
+
+open VS Code Editor -----> Open the cloned downloaded file 
+
 STEP1. Quiz_Webiste-MERN-Stack----->
 ----> edit .env File 
 ----->MONGO_URL = <URL-Link> 
